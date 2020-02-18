@@ -1,0 +1,20 @@
+{
+	"years": {
+		"2014": [{
+			"ripa": false
+		}],
+		"2015": [{
+			"ripa": false
+		}],
+		"2016": [{
+			"ripa": false
+		}],
+		"2017": [{
+			"ripa": false
+		}],
+		"2018": [{
+			"ripa": true
+		}]
+    },
+	"outpath": "data"
+}
